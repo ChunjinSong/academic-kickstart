@@ -1,5 +1,5 @@
 ---
-title: "Pair-wise Exchangeable Feature Extraction for Arbitrary Style Transfer"
+title: "Exchangeable Feature Alignment for Arbitrary Style Transfer"
 
 author_list: <b>Chunjin Song</b>*, <a href='https://zhijiew94.github.io/'>Zhijie Wu\*</a>, <a href='https://zhouyangvcc.github.io/'>Yang Zhou</a>, <a href='http://www.cs.mun.ca/~gong/'>Minglun Gong</a>, <a href='https://vcc.tech/~huihuang'>Hui Huang</a>
 
