@@ -1,14 +1,18 @@
 {
   "ExpandedNodes": [
     "",
+    "\\config",
     "\\content",
-    "\\content\\home",
+    "\\content\\authors",
+    "\\content\\authors\\admin",
     "\\content\\projects",
     "\\content\\projects\\G2L",
-    "\\content\\publication",
-    "\\content\\slides",
-    "\\content\\slides\\example"
+    "\\resources\\_gen",
+    "\\resources\\_gen\\images",
+    "\\resources\\_gen\\images\\projects",
+    "\\resources\\_gen\\images\\publication",
+    "\\resources\\_gen\\images\\publication\\conference-paper"
   ],
-  "SelectedNode": "\\content\\home\\projects.md",
+  "SelectedNode": "\\content\\projects\\.DS_Store",
   "PreviewInSolutionExplorer": false
 }
