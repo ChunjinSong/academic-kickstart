@@ -2,17 +2,14 @@
   "ExpandedNodes": [
     "",
     "\\config",
+    "\\config\\_default",
     "\\content",
     "\\content\\authors",
     "\\content\\authors\\admin",
-    "\\content\\projects",
-    "\\content\\projects\\G2L",
-    "\\resources\\_gen",
-    "\\resources\\_gen\\images",
-    "\\resources\\_gen\\images\\projects",
-    "\\resources\\_gen\\images\\publication",
-    "\\resources\\_gen\\images\\publication\\conference-paper"
+    "\\content\\project\\G2L",
+    "\\content\\publication",
+    "\\content\\publication\\ESNet"
   ],
-  "SelectedNode": "\\content\\projects\\.DS_Store",
+  "SelectedNode": "\\content\\authors\\admin\\avatar - 副本.jpg",
   "PreviewInSolutionExplorer": false
 }

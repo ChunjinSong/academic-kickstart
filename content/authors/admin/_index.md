@@ -67,11 +67,13 @@ user_groups:
 - Visitors
 ---
 
-I am a Master student in the [Visual Computing Center](https://vcc.tech/index.html) ([VCC](https://vcc.tech/index.html)) led by [Prof. Hui Huang](https://vcc.tech/~huihuang). 
-Currently, I closely cooperate with [Prof. Minglun Gong](http://www.cs.mun.ca/~gong/) and [Prof. Hui Huang](https://vcc.tech/~huihuang). Before joining VCC, I received my Bachelor degree in Electronic Information Science and Technology at Shandong Agricultural University. 
+I am a Master student in the [Visual Computing Center](https://vcc.tech/index.html) ([VCC](https://vcc.tech/index.html)) led by [Prof. Hui Huang](https://vcc.tech/~huihuang).
+My research interests lie in deep learning for 3D generative models, arbitrary style transfer and image generation.
+Currently, I am fortunate to work with [Prof. Minglun Gong](http://www.cs.mun.ca/~gong/) and [Prof. Hui Huang](https://vcc.tech/~huihuang). 
+
+Before joining VCC, I received my Bachelor degree in Electronic Information Science and Technology at Shandong Agricultural University. 
 And then I worked at Shanghai as software engineer for four years.
 
-My research interests lie in deep learning for 3D generative models, arbitrary style transfer and image generation.
 
 <!-- Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks. -->
 
